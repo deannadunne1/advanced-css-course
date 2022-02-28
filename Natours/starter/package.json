@@ -1,0 +1,14 @@
+{
+  "name": "natours-css-demo",
+  "version": "1.0.0",
+  "description": "Demo project to practice and learn scss",
+  "main": "index.js",
+  "devDependencies": {
+    "sass": "^1.49.9"
+  },
+  "scripts": {
+    "build:sass": "sass --watch sass/main.scss css/style.css"
+  },
+  "author": "",
+  "license": "ISC"
+}

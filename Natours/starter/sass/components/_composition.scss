@@ -4,7 +4,6 @@
     &__photo {
         width: 55%; //use percentges so it nicely scales with viewport
         box-shadow: 0 1.5rem 4rem rgba($color-black, .4);
-        border-radius: 2px;
         position: absolute;
         z-index: 10; //any low number
         transition: all .2s;

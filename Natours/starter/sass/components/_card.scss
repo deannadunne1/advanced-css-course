@@ -134,7 +134,7 @@
     //BACK SIDE STYLING
 
     &__cta {
-        @include center();
+        @include center;
 
         width: 90%;
         text-align: center;

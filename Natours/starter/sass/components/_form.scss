@@ -75,7 +75,8 @@
         top: -.4rem;
 
         &::after {
-            @include center();
+            @include center;
+
             content: "";
             display: block;
             height: 1.3rem;
